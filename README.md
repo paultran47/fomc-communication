@@ -44,7 +44,7 @@ communication.
 
 ## Current Communication Collected
 
-* FOMC official statements from May 1999 through Dec 2021 (scheduled and unscheduled).
+* FOMC official statements from May 1999 through Sep 2026 (scheduled and unscheduled).
 
 * FOMC alternative statements cleaned and provided from Amy Handlan from Feb 2005 through Dec 2017.
 
